@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std::cout << "Hello, World from Pavel Stepanov!" << std::endl;
+    std::cout << "Hello from Alex and Max" << std::endl;
     return 0;
 }
